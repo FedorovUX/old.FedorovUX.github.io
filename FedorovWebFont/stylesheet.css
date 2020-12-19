@@ -5,7 +5,8 @@
 @font-face {
     font-family: 'fedorovwebsiteregular';
     src: url('https://FedorovUX.github.io/FedorovWebFont/fedorovweb-webfont-webfont.woff2') format('woff2'),
-         url('https://FedorovUX.github.io/FedorovWebFont/fedorovweb-webfont-webfont.woff') format('woff');
+         url('https://FedorovUX.github.io/FedorovWebFont/fedorovweb-webfont-webfont.woff') format('woff'),
+         url('https://FedorovUX.github.io/FedorovWebFont/fedorovweb-webfont-webfont.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 
